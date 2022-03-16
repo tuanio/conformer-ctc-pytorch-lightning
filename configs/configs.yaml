@@ -1,0 +1,6 @@
+batch_size: 4
+max_epochs: 2
+lr: 0.001
+clean_path: '../input/librispeech-500-hours/LibriSpeech/'
+other_path: '../input/librispeech-500-hours/LibriSpeech/'
+num_gpus: 1
